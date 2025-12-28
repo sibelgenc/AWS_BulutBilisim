@@ -8,6 +8,7 @@ Bu proje, bir .NET tabanlı satış sitesi uygulamasının AWS (Amazon Web Servi
 Kullanılan Teknolojiler
 
 Bulut Platformu: AWS (Amazon Web Services)
+
 Dünya çapında en yaygın kullanılan bulut sağlayıcısı olması, .NET uygulamaları için güçlü destek sunması ve 'Free Tier' (Ücretsiz Kullanım Kotası) imkanları nedeniyle AWS platformu tercih edilmiştir.
 
 Yazılım Dili: C# / .NET
