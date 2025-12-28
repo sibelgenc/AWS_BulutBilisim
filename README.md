@@ -86,6 +86,7 @@ Ve ardından ortamınız başarıyla başlatıldı yazısı geliyor.Buradaki etk
 Otomasyon ve Kod Parçacıkları
 
 Veritabanı bağlantısı için kullanılan kritik yapılandırma örneği:
+
 "ConnectionStrings": {
     "DefaultConnection": "Server=database-1.cji6iswwmkdu.eu-north-1.rds.amazonaws.com;Database=database-1;User Id=sibel;Password=Password1234*****;TrustServerCertificate=True;"
 }
