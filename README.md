@@ -113,3 +113,5 @@ Zorluk: Veritabanı bağlantı hataları.
 Bulut platformlarında veritabanı ve uygulama sunucularını ayrı yönetmenin (Decoupling) hata ayıklamayı kolaylaştırdığı görüldü.
 
 İyileştirme: Gelecekte bağlantı bilgilerini appsettings.json yerine AWS Secrets Manager kullanarak daha güvenli saklamak hedeflenmektedir.
+
+video link : https://youtu.be/o0cRO68Tc8I
