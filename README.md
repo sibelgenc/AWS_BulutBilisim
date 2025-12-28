@@ -1,8 +1,15 @@
 # AWS_BulutBilisim
+
 Proje Açıklaması ve Hedefleri
+
 Bu proje, bir .NET tabanlı satış sitesi uygulamasının AWS (Amazon Web Services) bulut platformuna taşınmasını, veritabanı yönetimini ve canlıya alınma sürecini kapsamaktadır. Temel hedef, ölçeklenebilir bir bulut altyapısı kullanarak uygulamanın her yerden erişilebilir olmasını sağlamaktır.
 
+
 Kullanılan Teknolojiler
+
+Bulut Platformu: AWS (Amazon Web Services)
+Dünya çapında en yaygın kullanılan bulut sağlayıcısı olması, .NET uygulamaları için güçlü destek sunması ve 'Free Tier' (Ücretsiz Kullanım Kotası) imkanları nedeniyle AWS platformu tercih edilmiştir.
+
 Yazılım Dili: C# / .NET
 
 Veritabanı: AWS RDS (Microsoft SQL Server Express)
